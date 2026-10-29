@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SmartGit Free Installer** — SmartGit is a cross-platform Git and Mercurial client with a sophisticated interface supporting interactive rebase, cherry-pick, stash management, and pull request workflows. Works without internet access, no account required. Full offline installation.
+**💻 SmartGit Free Installer** — SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux used by professional developers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About SmartGit
 
-SmartGit is a cross-platform Git and Mercurial client with a sophisticated interface supporting interactive rebase, cherry-pick, stash management, and pull request workflows. Available for Windows, macOS, and Linux with a free license for non-commercial use.
+SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux used by professional developers. Features include a log graph, interactive rebase, cherry-pick, worktree management, and integrations with GitHub, GitLab, Bitbucket, and Gerrit. SmartGit's powerful feature set covers nearly all Git operations visually, making it a comprehensive replacement for command-line Git.
 
 ---
 
 ## ❌ Problem: SmartGit is hard to access
 
-- **Paid for Commercial Use** — Free only for open source and non-commercial projects
-- **Complex Interface** — Feature-rich UI has a learning curve
-- **Mercurial Declining** — Mercurial support less relevant as Git dominates version control
-- **Competition** — GitKraken and Fork offer more polished visual experiences
+- **Commercial License** — Free for non-commercial use only; commercial use requires subscription
+- **Interface Complexity** — Feature-rich UI takes time to learn thoroughly
+- **Java-Based** — Uses Java runtime for cross-platform support; slight performance overhead
+- **Update Cadence** — Major releases occasionally change workflow conventions
 
 ---
 
@@ -121,7 +121,7 @@ SmartGit is a cross-platform Git and Mercurial client with a sophisticated inter
 
 ---
 
-**SmartGit Free Installer** — SmartGit is a cross-platform Git and Mercurial client with a sophisticated interface supporting interactive rebase, cherry-pick, stash management, and pull request workflows. Install without internet connection today!
+**SmartGit Free Installer** — SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux used by professional developers. Install without internet connection today!
 
 <div align="center">
 
